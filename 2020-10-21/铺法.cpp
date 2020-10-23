@@ -1,5 +1,3 @@
-// new
-
 #include <cstdio>
 int n, f[105];
 
